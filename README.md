@@ -30,15 +30,40 @@ I'm **Malik Shahzaib**, a developer and lifelong learner interested in building 
 
 > My goal is to become a versatile, full-spectrum developer who can understand a problem, choose the right tools, and build a thoughtful solution.
 
-## 🧭 What I'm Exploring
+## 🧭 Explore My Work
 
 <div align="center">
 
-| 🤖 AI & Automation | 🌐 Web & APIs | 📱 Cross-Platform | 🐧 Systems & Tools |
-|:---:|:---:|:---:|:---:|
-| AI applications | Frontend interfaces | Android apps | Linux environments |
-| Intelligent assistants | Backend services | iOS development | Desktop software |
-| Workflow automation | APIs & integrations | Shared codebases | Developer tooling |
+  <a href="https://github.com/malikshahzaib07?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_Browse_All_Repositories-Explore_My_Projects-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Browse all repositories" />
+  </a>
+
+  <p><b>One profile. Many directions. Always building.</b></p>
+
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>🤖 AI & Automation</h3>
+        AI-powered tools<br />Smart assistants<br />Workflow automation
+      </td>
+      <td align="center" width="25%">
+        <h3>🌐 Web & APIs</h3>
+        Modern interfaces<br />Backend services<br />APIs and integrations
+      </td>
+      <td align="center" width="25%">
+        <h3>📱 Apps & Platforms</h3>
+        Android and iOS<br />Cross-platform apps<br />Desktop experiences
+      </td>
+      <td align="center" width="25%">
+        <h3>🐧 Systems & Tools</h3>
+        Linux environments<br />Developer tooling<br />Runtime experiments
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <a href="https://github.com/malikshahzaib07?tab=repositories"><b>→ Open my repositories on GitHub</b></a>
+  </p>
 
 </div>
 
@@ -110,8 +135,8 @@ I'm always interested in learning, collaborating, sharing ideas, and building us
 
 <div align="center">
 
-  <a href="https://github.com/malikshahzaib07">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
+  <a href="https://github.com/malikshahzaib07?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub repositories" />
   </a>
 
   <br /><br />
